@@ -22,6 +22,13 @@
      alt="HTML5 logo"
      style="float: left; margin-right: 10px;" />
 
+## Libraries
+
+<img src="./images/react.svg"
+     height="100px"
+     alt="React logo"
+     style="float: left; margin-right: 10px;" />
+
 ## Tools
 
 - Figma
