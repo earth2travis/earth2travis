@@ -29,6 +29,18 @@
      alt="React logo"
      style="float: left; margin-right: 10px;" />
 
+## Frameworks
+
+<img src="./images/gatsby.svg"
+     height="100px"
+     alt="Gatsby logo"
+     style="float: left; margin-right: 10px;" />
+
+<img src="./images/bootstrap5.svg"
+     height="100px"
+     alt="Bootstrap logo"
+     style="float: left; margin-right: 10px;" />
+
 ## Tools
 
 - Figma
