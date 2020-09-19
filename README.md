@@ -6,19 +6,19 @@
 ## Languages
 
 <img src="./images/markdown.svg"
-     width="50px"
+     height="100px"
      alt="Markdown icon"
      style="float: left; margin-right: 10px;" />
 <img src="./images/html5.svg"
-     width="50px"
+     height="100px"
      alt="HTML5 logo"
      style="float: left; margin-right: 10px;" />
 <img src="./images/css3.svg"
-     width="50px"
+     height="100px"
      alt="CSS3 logo"
      style="float: left; margin-right: 10px;" />
 <img src="./images/javascript.svg"
-     width="50px"
+     height="100px"
      alt="HTML5 logo"
      style="float: left; margin-right: 10px;" />
 
