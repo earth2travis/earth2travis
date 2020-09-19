@@ -1,5 +1,39 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React
+- 💬 Ask me about coaching and innovation
+
+## Languages
+
+<img src="./images/markdown.svg"
+     width="50px"
+     alt="Markdown icon"
+     style="float: left; margin-right: 10px;" />
+<img src="./images/html5.svg"
+     width="50px"
+     alt="HTML5 logo"
+     style="float: left; margin-right: 10px;" />
+<img src="./images/css3.svg"
+     width="50px"
+     alt="CSS3 logo"
+     style="float: left; margin-right: 10px;" />
+<img src="./images/javascript.svg"
+     width="50px"
+     alt="HTML5 logo"
+     style="float: left; margin-right: 10px;" />
+
+## Tools
+
+- Figma
+- Visual Studio Code
+- GitHub
+
+## Social
+
+- [Twitter](https://twitter.com/earth2travis)
+- [Instagram](https://www.instagram.com/earth2travis/)
+- [LinkedIn](https://www.linkedin.com/in/mccutcheon/)
+
 <!--
 **earth2travis/earth2travis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
