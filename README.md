@@ -11,7 +11,7 @@
 - [2020 KPMG Women's PGA Championship](https://attend.kpmgwpga.com/)
 - [2020 KitchenAid Senior PGA Championship](https://www.srpgachampionship.com/attend/2020)
 
-<img src="./images/womens-pga.png"
+<img src="./images/womens-pga.jpg"
      height="100px"
      alt="KPMG Women's PGA Championship logo"
      style="float: left; margin-right: 10px;" />
