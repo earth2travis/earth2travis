@@ -1,7 +1,15 @@
-### Hi there 👋
+# Howdy
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about coaching and innovation
+- 🌮 I love tacos
+
+## Portfolio
+
+### PGA Tour
+
+- [2020 KPMG Women's PGA Championship](https://attend.kpmgwpga.com/)
+- [2020 KitchenAid Senior PGA Championship](https://www.srpgachampionship.com/attend/2020)
 
 ## Languages
 
@@ -45,6 +53,7 @@
 - Figma
 - Visual Studio Code
 - GitHub
+- Postman
 
 ## Social
 
