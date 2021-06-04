@@ -6,7 +6,7 @@
 
 ## Twitch
 
-- [HAUS Party LIVE!](https://www.twitch.tv/videos/1044653141) on June 3, 2021 [Notes](https://hackmd.io/@jonathanprozzi/daohaus-haus-party-live-notes-6-3)
+- [HAUS Party LIVE!](https://www.twitch.tv/videos/1044653141) on June 3, 2021 [Show notes](https://hackmd.io/@jonathanprozzi/daohaus-haus-party-live-notes-6-3)
 
 ## Portfolio
 
