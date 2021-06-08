@@ -8,6 +8,10 @@
 
 - [HAUS Party LIVE!](https://www.twitch.tv/videos/1044653141) on June 3, 2021 [Show notes](https://hackmd.io/@jonathanprozzi/daohaus-haus-party-live-notes-6-3)
 
+## Docs
+
+- [Index Coop 🎨 design Channel](https://hackmd.io/uWx0JfCKQzyS6FttpMIrmA)
+
 ## Portfolio
 
 ### PGA Tour
