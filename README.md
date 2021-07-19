@@ -1,6 +1,6 @@
 # Howdy
 
-- 🌱 I’m currently learning React
+- 🌱 Learning React
 - 💬 Ask me about coaching and innovation
 - 🌮 I love tacos
 
