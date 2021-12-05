@@ -1,8 +1,15 @@
 # Howdy
 
-- 🌱 Learning React
-- 💬 Ask me about coaching and innovation
-- 🌮 I love tacos
+Web3 cat hearder
+
+## Fraktal
+
+Lead development and marketing of protocol for fractionalizing NFTs.
+
+- Launched Token
+- Summoned DAO
+- Deployed Platform
+- Grew Community
 
 ## Twitch
 
