@@ -8,7 +8,7 @@ Lead development and marketing of protocol for fractionalizing NFTs.
 
 - Launched Token
 - Summoned DAO
-- Deployed Platform
+- Deployed Protocol
 - Grew Community
 
 ## Twitch
