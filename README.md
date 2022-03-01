@@ -1,10 +1,11 @@
 # Howdy
 
-Web3 cat hearder
+- Web3 cat hearder 🐈
+- I like turtles 🐢
 
 ## Fraktal
 
-Lead development and marketing of protocol for fractionalizing NFTs.
+Led development and marketing of protocol for fractionalizing NFTs.
 
 - Launched Token
 - Summoned DAO
