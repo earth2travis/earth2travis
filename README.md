@@ -1,26 +1,11 @@
 # Howdy
 
-- Web3 cat hearder 🐈
-- I like turtles 🐢
+- 🐈 Web3 cat hearder
+- 🏰 DAOhaus Core Contributor
+- ⚔️ RaidGuild Mercenary
+- 🐢 I like turtles
 
-## Fraktal
-
-Led development and marketing of protocol for fractionalizing NFTs.
-
-- Launched Token
-- Summoned DAO
-- Deployed Protocol
-- Grew Community
-
-## Twitch
-
-- [HAUS Party LIVE!](https://www.twitch.tv/videos/1044653141) on June 3, 2021 [Show notes](https://hackmd.io/@jonathanprozzi/daohaus-haus-party-live-notes-6-3)
-
-## Docs
-
-- [Index Coop 🎨 design Channel](https://hackmd.io/uWx0JfCKQzyS6FttpMIrmA)
-
-## Portfolio
+## When I was a Boomer
 
 ### PGA Tour
 
@@ -62,29 +47,15 @@ Led development and marketing of protocol for fractionalizing NFTs.
      alt="React logo"
      style="float: left; margin-right: 10px;" />
 
-## Frameworks
-
-<img src="./images/gatsby.svg"
-     height="100px"
-     alt="Gatsby logo"
-     style="float: left; margin-right: 10px;" />
-<img src="./images/bootstrap5.svg"
-     height="100px"
-     alt="Bootstrap logo"
-     style="float: left; margin-right: 10px;" />
-
 ## Tools
 
 - Figma
 - Visual Studio Code
 - GitHub
-- Postman
 
 ## Social
 
 - [Twitter](https://twitter.com/earth2travis)
-- [Instagram](https://www.instagram.com/earth2travis/)
-- [LinkedIn](https://www.linkedin.com/in/mccutcheon/)
 
 <!--
 **earth2travis/earth2travis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
