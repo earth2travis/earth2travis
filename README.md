@@ -39,7 +39,7 @@
 
 ## Social
 
-- [Twitter](https://twitter.com/earth2travis)
+- [Warpcast](https://warpcast.com/earth2travis)
 
 <!--
 **earth2travis/earth2travis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
