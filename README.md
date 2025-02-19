@@ -1,6 +1,8 @@
 # Howdy
 
 - 🐈 Web3 cat hearder
+- ⚙️ Protocol Maxi
+- 🤖 Robot Whisperer
 - 🏰 DAOhaus Core Contributor
 - ⚔️ RaidGuild Mercenary
 - 🐢 I like turtles
@@ -34,7 +36,7 @@
 ## Tools
 
 - Figma
-- Visual Studio Code
+- Cursor
 - GitHub
 
 ## Social
